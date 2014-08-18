@@ -1,0 +1,27 @@
+{
+  "name": "serve-exec",
+  "version": "0.0.0",
+  "description": "Serve stdout of child processes",
+  "main": "index.js",
+  "bin": {
+    "serve-exec": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/serve-exec"
+  },
+  "keywords": [
+    "serve",
+    "exec",
+    "spawn"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/serve-exec/issues"
+  },
+  "homepage": "https://github.com/finnp/serve-exec"
+}
